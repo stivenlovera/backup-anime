@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"animes.Clasificacion"}],"uuid":"2da10a1f8ce747e1beb4c5a755fe2599"}

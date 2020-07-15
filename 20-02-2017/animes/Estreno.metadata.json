@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"animes.Estreno"}],"uuid":"df6653224fe34628ae850594c6ee8e22"}

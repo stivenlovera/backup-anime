@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"api-anime.capitulos"}],"uuid":"018a7adda9bb408b9683d273ca86e9f0"}
